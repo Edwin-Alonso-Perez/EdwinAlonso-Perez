@@ -1,4 +1,4 @@
-# Saludos, soy Edwin Alonso Pérez
+# Saludos, soy Edwin Alonso Pérez Brenes.
 
 Estoy desarrollando proyectos de análisis de datos aplicados a física, metrología, Modelado Predictivo aplicado, estadística y procesamiento de información experimental.
 
