@@ -36,4 +36,4 @@ En este perfil iré publicando proyectos relacionados con análisis de datos, f�
 
 ## Contacto
 
-- GitHub: [@EdwinAlonso-Perez](https://github.com/EdwinAlonso-Perez)
+- GitHub: [@Edwin-Alonso-Perez](https://github.com/Edwin-Alonso-Perez)
