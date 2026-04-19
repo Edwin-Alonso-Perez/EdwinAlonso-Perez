@@ -1,6 +1,6 @@
-# Hola, soy Edwin Alonso Pérez
+# Saludos, soy Edwin Alonso Pérez
 
-Estoy desarrollando proyectos de análisis de datos aplicados a física, metrología, estadística y procesamiento de información experimental.
+Estoy desarrollando proyectos de análisis de datos aplicados a física, metrología, Modelado Predictivo aplicado, estadística y procesamiento de información experimental.
 
 ## Sobre mí
 
@@ -11,6 +11,7 @@ Actualmente trabajo con proyectos relacionados con  Modelado predictivo aplicado
 ## Áreas de interés
 
 - Análisis de datos
+- Modelado Predictivo
 - Estadística aplicada
 - Metrología
 - Física experimental
