@@ -32,6 +32,8 @@ I am currently developing projects related to uncertainty analysis, applied pred
 - pandas
 - NumPy
 - Matplotlib
+- Scikit-learn
+- Pytorch
 
 ### Visualization and Reporting
 
